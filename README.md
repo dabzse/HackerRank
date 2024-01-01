@@ -7,6 +7,16 @@ so... finally I have started.
 ## repo created: Jan 1, 2024
 
 and on the first day I just added this readme and all of the solutions which are completed. \
-I will continue to add solutions as I go along, possible daily, with 1 solution, 2 solutions...
+(that was a plan, but I didn't have time for it)
+
+### missing solutions which are already done
+
+- Strings
+- Sets
+- Itertools
+- Collections
+
+I will continue to add solutions as I go along. \
+\+ possible daily, with 1 new solution, 2 new solutions...
 
 so, that's it at the moment
