@@ -11,7 +11,6 @@ and on the first day I just added this readme and all of the solutions which are
 
 ### missing solutions which are already done
 
-- Strings
 - Sets
 - Itertools
 - Collections
