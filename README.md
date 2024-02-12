@@ -6,15 +6,27 @@ so... finally I have started.
 
 ## repo created: Jan 1, 2024
 
-and on the first day I just added this readme and all of the solutions which are completed. \
-(that was a plan, but I didn't have time for it)
+### Solutions
 
-### missing solutions which are already done
+- **Python**
+  - Introduction
+  - Basic Data Types
+  - Strings
+  - Sets
+  - Math
+  - Itertools (missing at the moment, but done [will be added in this month])
+  - Collections (missing at the moment, but done [will be added in this month])
+  - Date and Time
+  - Errors and Exceptions
+  - Classes
+  - Built-Ins
+  - Python Functionals
+  - XML
+  - Closures and Decorators
+  - Debugging
+  - Numpy
+  - Regex and Parsing (not yet started, but will be done in this month)
 
-- Itertools
-- Collections
+I will continue to add solutions as I go along.
 
-I will continue to add solutions as I go along. \
-\+ possible daily, with 1 new solution, 2 new solutions...
-
-so, that's it at the moment
+so, that's it at the moment!
