@@ -4,6 +4,9 @@ I thought a few years: do I need this or not?
 
 so... finally I have started.
 
+my profile link is:\
+<https://hackerrank.com/dabzse>
+
 ## repo created: Jan 1, 2024
 
 ### Solutions
@@ -14,8 +17,8 @@ so... finally I have started.
   - Strings
   - Sets
   - Math
-  - Itertools (missing at the moment, but done [will be added in this month])
-  - Collections (missing at the moment, but done [will be added in this month])
+  - Itertools
+  - Collections (missing at the moment, but done [if everything goes well, will be added in this month])
   - Date and Time
   - Errors and Exceptions
   - Classes
@@ -25,7 +28,7 @@ so... finally I have started.
   - Closures and Decorators
   - Debugging
   - Numpy
-  - Regex and Parsing (not yet started, but will be done in this month)
+  - Regex and Parsing (in progress [if everything goes well, will be done in this month])
 
 I will continue to add solutions as I go along.
 
