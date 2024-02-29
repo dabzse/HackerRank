@@ -18,7 +18,7 @@ my profile link is:\
   - Sets
   - Math
   - Itertools
-  - Collections (missing at the moment, but done [if everything goes well, will be added in this month])
+  - Collections
   - Date and Time
   - Errors and Exceptions
   - Classes
