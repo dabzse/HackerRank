@@ -28,7 +28,7 @@ my profile link is:\
   - Closures and Decorators
   - Debugging
   - Numpy
-  - Regex and Parsing (in progress [if everything goes well, will be done in this month])
+  - Regex and Parsing
 
 I will continue to add solutions as I go along.
 
