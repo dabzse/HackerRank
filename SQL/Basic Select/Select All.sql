@@ -1,0 +1,4 @@
+-- MySQL
+
+SELECT *
+FROM CITY;
