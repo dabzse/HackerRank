@@ -30,6 +30,14 @@ my profile link is:\
   - Numpy
   - Regex and Parsing
 
+$~$
+
+- **SQL**
+  - Basic Select
+    - MySQL
+
+$~$
+
 I will continue to add solutions as I go along.
 
 so, that's it at the moment!
