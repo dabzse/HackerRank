@@ -4,8 +4,8 @@ I thought a few years: do I need this or not?
 
 so... finally I have started.
 
-my profile link is:\
-<https://hackerrank.com/dabzse>
+my profile link is:
+[https://hackerrank.com/dabzse](https://hackerrank.com/dabzse)
 
 ## repo created: Jan 1, 2024
 
@@ -34,6 +34,8 @@ $~$
 
 - **SQL**
   - Basic Select
+    - MySQL
+  - Advanced Select
     - MySQL
 
 $~$
