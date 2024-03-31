@@ -37,6 +37,8 @@ $~$
     - MySQL
   - Advanced Select
     - MySQL
+  - Aggregation
+    - MySQL
 
 $~$
 
