@@ -39,6 +39,8 @@ $~$
     - MySQL
   - Aggregation
     - MySQL
+  - Basic Join
+    - MySQL
 
 $~$
 
