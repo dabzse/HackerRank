@@ -41,6 +41,8 @@ $~$
     - MySQL
   - Basic Join
     - MySQL
+  - Advanced Join
+    - MySQL
 
 $~$
 
