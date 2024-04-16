@@ -43,6 +43,8 @@ $~$
     - MySQL
   - Advanced Join
     - MySQL
+  - Alternative Queries
+    - MySQL
 
 $~$
 
