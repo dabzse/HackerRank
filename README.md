@@ -48,6 +48,11 @@ $~$
 
 $~$
 
+- **Algorithms**
+  - Warmup
+
+$~$
+
 I will continue to add solutions as I go along.
 
 so, that's it at the moment!
