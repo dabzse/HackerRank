@@ -50,6 +50,10 @@ $~$
 
 - **Algorithms**
   - Warmup
+  - Implementation
+    - Python
+    - PHP (not all, but will be soon)
+    - C# (not all, but will be soon)
 
 $~$
 
